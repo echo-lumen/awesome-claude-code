@@ -235,6 +235,10 @@ Currently configured:
 7. **Hooks not triggering**: Restart Claude Code after global installation
 8. **Permission denied errors**: Ensure you have proper permissions configured in your `~/.claude/settings.json`
 
+## Community Hooks & Tools
+
+- [claude-code-memory](https://github.com/echo-lumen/claude-code-memory) — Observational memory for Claude Code. A PostToolUse hook that records tool interactions and consolidates them into structured project knowledge (files by interaction count, common searches, command frequency, session summaries). Zero dependencies, rule-based consolidation.
+
 ## Attribution & Credits
 
 ### Inspiration
