@@ -235,6 +235,10 @@ Currently configured:
 7. **Hooks not triggering**: Restart Claude Code after global installation
 8. **Permission denied errors**: Ensure you have proper permissions configured in your `~/.claude/settings.json`
 
+## Community Hooks & Tools
+
+- [claude-hooks-test](https://github.com/echo-lumen/claude-hooks-test) — Test harness for Claude Code hooks. Simulates tool events, runs hook scripts, and verifies allow/deny/ask decisions. Ships 22 built-in security scenarios with CI-friendly JSON output.
+
 ## Attribution & Credits
 
 ### Inspiration
